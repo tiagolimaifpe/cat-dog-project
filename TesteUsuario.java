@@ -1,4 +1,4 @@
-mport usuario.Usuario;
+import usuario.Usuario;
 
 public class TesteUsuario {
 	
