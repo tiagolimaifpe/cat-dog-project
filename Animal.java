@@ -1,13 +1,13 @@
 package animal;
 
 public class Animal {
-	private String nome;
-	private String especie;
-	private Porte porte;
-	private FaixaEtaria idade;
-	boolean adotado;
-	boolean castrado;
-	boolean vacinado;
+	protected String nome;
+	protected String especie;
+	protected Porte porte;
+	protected FaixaEtaria idade;
+	protected boolean adotado;
+	protected boolean castrado;
+	protected boolean vacinado;
 	
 	public String getNome() {
 		return nome;
