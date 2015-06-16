@@ -1,7 +1,7 @@
 package animal;
 
 public class Cachorro extends Animal{
-	private String raca;
+	protected String raca;
 	
 	public Cachorro(){
 		super();
